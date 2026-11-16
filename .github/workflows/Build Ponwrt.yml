@@ -1,4 +1,4 @@
-name: Release PonWrt
+name: Build PonWrt
 
 on:
   workflow_dispatch:
