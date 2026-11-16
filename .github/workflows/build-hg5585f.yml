@@ -1,4 +1,4 @@
-name: Build PonWrt
+name: Build PonWrt(HG5585F-CT/CU)
 
 on:
   workflow_dispatch:
